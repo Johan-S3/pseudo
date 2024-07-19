@@ -35,8 +35,7 @@ body{
   width: 23%;
   height: 3px;
   background-color: black;
-  position: relative;
-  margin-bottom: 10px;
+  margin-bottom: 7px;
 }
 
 .card__title::before {
